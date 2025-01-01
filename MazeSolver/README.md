@@ -7,7 +7,7 @@ A number of algorithms might be useful here.<br>
 E.g.<br>
 <blockquote>Hand On Wall Rule, also known as either the left-hand rule or the right-hand rule. If the maze is simply connected, that is, all its walls are connected together or to the maze's outer boundary, then by keeping one hand in contact with one wall of the maze the solver is guaranteed not to get lost and will reach a different exit if there is one; otherwise, the algorithm will return to the entrance having traversed every corridor next to that connected section of walls at least once.
 </blockquote>
-For more see <a href="https://en.wikipedia.org/wiki/Maze-solving_algorithm" target="_blank">Maze solvers</a> (Wikipedia)<br>
+For more see <a href="https://en.wikipedia.org/wiki/Maze-solving_algorithm" target="_blank">Maze solvers</a> (Wikipedia).<br>
 <br>
 Wall following (pseudo-code).<br>
 <blockquote>
@@ -24,4 +24,13 @@ Else if left/right/straight are occupied or you crashed:
 </blockquote>
 Template code (E-puck, Webot):<br>
 <a href="Wall_Following.py">Wall Following</a> (template Python code).<br>
+<br>
+<blockquote>
+ While many planning algorithms assume global knowledge, bug algorithms assume only local knowledge of the environment and a global goal position. Bug behaviors are simple:<br>
+<br>
+ · Follow a wall (right or left)<br>
+<br>
+· Move in a straight line toward goal<br>
+</blockquote>
+
  <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
