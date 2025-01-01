@@ -26,7 +26,7 @@ Template code (E-puck, Webot):<br>
 <a href="Wall_Following.py">Wall Following</a> (template Python code).<br>
 <br>
 <br>
-''<i><b>Bug algorithm</b></i>'' (pseudo-code).<br>
+''<i><b>Bug0 algorithm</b></i>'' (pseudo-code).<br>
 <blockquote>
  While many planning algorithms assume global knowledge, <br>
  bug algorithms assume only local knowledge of the environment,<br>
