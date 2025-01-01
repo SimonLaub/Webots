@@ -41,5 +41,7 @@ Template code (E-puck, Webot):<br>
 <a href="Bug0.py">Bug0</a> (template Python code).<br>
 <br>
 <br>
+Exercise:<br>
+<a href="MazeSolver.pdf">MazeSolver</a><br>
 
  <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
