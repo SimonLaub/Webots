@@ -26,7 +26,9 @@ Template code (E-puck, Webot):<br>
 <a href="Wall_Following.py">Wall Following</a> (template Python code).<br>
 <br>
 <blockquote>
- While many planning algorithms assume global knowledge, bug algorithms assume only local knowledge of the environment and a global goal position. Bug behaviors are simple:<br>
+ While many planning algorithms assume global knowledge, <br>
+ bug algorithms assume only local knowledge of the environment<br>
+ and a global goal position. Bug behaviors are simple:<br>
 <br>
  · Follow a wall (right or left)<br>
 <br>
