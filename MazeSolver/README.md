@@ -25,6 +25,8 @@ Else if left/right/straight are occupied or you crashed:
 Template code (E-puck, Webot):<br>
 <a href="Wall_Following.py">Wall Following</a> (template Python code).<br>
 <br>
+<br>
+''<i><b>Bug algorithm</b></i>'' (pseudo-code).<br>
 <blockquote>
  While many planning algorithms assume global knowledge, <br>
  bug algorithms assume only local knowledge of the environment<br>
