@@ -43,5 +43,5 @@ Template code (E-puck, Webot):<br>
 <br>
 Exercise:<br>
 <a href="MazeSolver.pdf">MazeSolver</a><br>
-
- <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
+<br>
+ <img src="TinyMaze.gif" alt="Epuck robot solving maze in Webot"> 
