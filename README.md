@@ -2,7 +2,8 @@
 
 Misc robot simulations in Webots.<br>
 <br>
-For path finding and obstacle avoidance (E-puck robot simulation).<br>
+For path finding and obstacle avoidance<br>
+(E-puck robot simulation).<br>
 See <a href="PathFindingObstacleAvoidance/README.md">here</a>.<br>
 <br>
 For Maze solver (E-puck robot simulation)<br>
