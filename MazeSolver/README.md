@@ -11,7 +11,7 @@ For more, see <a href="https://en.wikipedia.org/wiki/Maze-solving_algorithm" tar
 <br>
 ''<i><b>Wall following</b></i>'' (pseudo-code).<br>
 <blockquote>
-Here is the wall follower algorithm(the left-hand one) at a high level:<br>
+Here is the wall follower algorithm (the left-hand one) at a high level:<br>
 <br>
 If left is free:<br>
 &nbsp; &nbsp; Turn Left<br>
