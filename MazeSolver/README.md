@@ -37,7 +37,7 @@ Template code (E-puck, Webot):<br>
 · Move in a straight line toward goal<br>
 </blockquote>
 Template code (E-puck, Webot):<br>
-<a href="Bug0.py">Bug0.<br>
+<a href="Bug0.py">Bug0</a> (template Python code).<br>
 <br>
 <br>
 
