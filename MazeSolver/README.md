@@ -9,7 +9,7 @@ E.g.<br>
 </blockquote>
 For more see <a href="https://en.wikipedia.org/wiki/Maze-solving_algorithm" target="_blank">Maze solvers</a> (Wikipedia).<br>
 <br>
-Wall following (pseudo-code).<br>
+''<i><b>Wall following</b></i>'' (pseudo-code).<br>
 <blockquote>
 Here is the wall follower algorithm(the left-hand one) at a high level:<br>
 <br>
