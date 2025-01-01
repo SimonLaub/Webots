@@ -10,17 +10,18 @@ E.g.<br>
 For more see <a href="https://en.wikipedia.org/wiki/Maze-solving_algorithm" target="_blank">Maze solvers</a> (Wikipedia)<br>
 <br>
 Python code:<br>
+<blockquote>
 Wall following.<br>
 Here is the wall follower algorithm(the left-hand one) at a high level:<br>
 <br>
 If left is free:<br>
-    Turn Left<br>
+&nbsp; &nbsp; Turn Left<br>
 Else if left is occupied and straight is free:<br>
-    Go Straight<br>
+&nbsp; &nbsp; Go Straight<br>
 Else if left and straight are occupied:<br>
-    Turn Right <br>
-Else if left/right/straight are occupied or you crashed:<br>
-    Turn 180 degrees<br>
-<br>
+&nbsp; &nbsp; Turn Right <br>
+Else if left/right/straight are occupied or you crashed:  
+&nbsp; &nbsp; Turn 180 degrees<br>
+</blockquote>
 
  <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
