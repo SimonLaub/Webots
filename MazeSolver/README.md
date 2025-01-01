@@ -22,6 +22,6 @@ Else if left and straight are occupied:<br>
 Else if left/right/straight are occupied or you crashed:  
 &nbsp; &nbsp; Turn 180 degrees<br>
 </blockquote>
-Template code:<br>
+Template code (E-puck, Webot):<br>
 <a href="Wall_Following.py">Wall Following</a> (template Python code).<br>
  <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
