@@ -36,5 +36,9 @@ Template code (E-puck, Webot):<br>
 <br>
 · Move in a straight line toward goal<br>
 </blockquote>
+Template code (E-puck, Webot):<br>
+<a href="Wall_Following.py">Bug0 Python code).<br>
+<br>
+<br>
 
  <img src="TinyMaze.jpg" alt="Epuck robot solving maze in Webot"> 
