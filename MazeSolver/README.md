@@ -29,7 +29,7 @@ Template code (E-puck, Webot):<br>
 ''<i><b>Bug algorithm</b></i>'' (pseudo-code).<br>
 <blockquote>
  While many planning algorithms assume global knowledge, <br>
- bug algorithms assume only local knowledge of the environment<br>
+ <i><b>bug</b></i> algorithms assume only local knowledge of the environment<br>
  and a global goal position. Bug behaviors are simple:<br>
 <br>
  · Follow a wall (right or left)<br>
