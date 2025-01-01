@@ -1,6 +1,6 @@
 Maze solver.<br>
 <br>
-In this exercise the objective i to solve the maze, <br>
+In this exercise the objective is to get out of, solve, the maze, <br>
 and get to the red hangar.<br>
 <br>
 A number of algorithms might be useful here.<br>
