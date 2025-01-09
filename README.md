@@ -9,4 +9,7 @@ See <a href="PathFindingObstacleAvoidance/README.md">here</a>.<br>
 For Maze solver (E-puck robot simulation)<br>
 See <a href="MazeSolver/README.md">here</a>.<br>
 <br>
+For Maze traveller (E-puck robot simulation)<br>
+See <a href="MazeTraveller/README.md">here</a>.<br>
+<br>
  <img src="PathFindingObstacleAvoidance/Webots_epuck_obstacle_avoidance.gif" alt="Webot simulation"> <br>
