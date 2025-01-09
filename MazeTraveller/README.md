@@ -1,6 +1,6 @@
 Maze Traveller.<br>
 <br>
-In this exercise we are again looking at an e-puck<br> working its way around a maze.
+In this exercise we are again looking at an e-puck<br> working its way around a maze.<br>
 <br>
 Wall following is again useful<br>
 (Just as it was in the prevous <a href="../MazeSolver/README.md">Maze Solver</a> exercise. <br>
