@@ -9,7 +9,7 @@ Exercise:<br>
 The robot must first find the box.<br> And
  then it must use its map of the world to find its way home. <br>As directly as possible.<br>
  <br>
-For more: <br>See <a href="MazeTraveller.pdf">Maze traveller</a> exercise<br>
+For more: <br>See <a href="MazeTraveller.pdf">Maze traveller</a> (pdf) exercise.<br>
 <br>
  <img src="maze.gif" alt="Epuck robot solving maze in Webot"> 
 
