@@ -4,8 +4,7 @@ In this exercise we are again looking at an e-puck<br> working its way around a 
 <br>
 Wall following is again useful<br>
 (Just as it was in the prevous <a href="../MazeSolver/README.md">Maze Solver</a> exercise). <br>
-<br>
-Template code (E-puck, Webot):<br>
+See: Template code (E-puck, Webot):<br>
 <a href="maze_traveller.py">Wall Following</a> (Finding the target box).<br>
 <br>
 Exercise:<br>
