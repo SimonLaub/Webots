@@ -13,5 +13,5 @@ The robot must first find the box.<br> And
  <br>
 For more: <br>See the <a href="MazeTraveller.pdf">Maze traveller</a> exercise (pdf).<br>
 <br>
- <img src="maze.gif" alt="Epuck robot solving maze in Webot"> 
+ <img src="mazerun.gif" alt="Epuck robot solving maze in Webot"> 
 
